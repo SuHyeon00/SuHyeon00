@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="https://www.instagram.com/o_ss_u/" target="_blank"><img src="https://img.shields.io/badge/o_ss_u-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://velog.io/@ssue_sept22" target="_blank"><img src="https://img.shields.io/badge/lunarssu-20C997?style=flat&logo=velog&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/o.ss.u2056@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+
+🌱 I’m currently learning ...
+
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c++-044F88?style=flat&logo=c%2B%2B&logoColor=white"/>
+<br><br/>
+![OSSU's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHyeon00&show_icons=true&theme=radical)
+
 
 <!--
 **SuHyeon00/SuHyeon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
